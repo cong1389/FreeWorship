@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ServiceItems>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Muôn dân vỗ tay</Title>
+      <Index>Muôn dân vỗ tay ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Vì Chúa là vua</Title>
+      <Index>Vì Chúa là vua ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Ta luôn cùng con</Title>
+      <Index>Ta luôn cùng con ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Hãy sống chết cho Giê-hô-va</Title>
+      <Index>Hãy sống chết cho Giê-hô-va ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Ngài đến tìm con</Title>
+      <Index>Ngài đến tìm con ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Người nào để trí mình</Title>
+      <Index>Người nào để trí mình ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Gần bên Chúa</Title>
+      <Index>Gần bên Chúa ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Bài ca được sai đi</Title>
+      <Index>Bài ca được sai đi ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>Film</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="VideoServiceItem">
+      <Title>01 Cuoc kho nan cua Chua Jesus.mp4</Title>
+      <Index>F:\Film\Cuoc kho nan cua Chua Gie-xu\01 Cuoc kho nan cua Chua Jesus.mp4</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+      <StartTimeTicks>0</StartTimeTicks>
+      <EndTimeTicks>32926000000</EndTimeTicks>
+      <Volume>100</Volume>
+      <Loop>false</Loop>
+      <MediaType>File</MediaType>
+      <Brightness>0</Brightness>
+      <Contrast>0</Contrast>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>KT</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="BibleServiceItem">
+      <Title>Romans 5:1-21</Title>
+      <Index>rom-5:1-5:21</Index>
+      <NumberToSelect>1</NumberToSelect>
+    </ServiceItem>
+    <ServiceItem xsi:type="BibleServiceItem">
+      <Title>1 Corinthians 15:1-58</Title>
+      <Index>1co-15:1-15:58</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>255</R>
+          <G>255</G>
+          <B>255</B>
+        </Colour2>
+        <TypeOfGradient>Linear</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0</X>
+          <Y>0.5</Y>
+        </Point1>
+        <Point2>
+          <X>0.10204081632653061</X>
+          <Y>0.49801587301587291</Y>
+        </Point2>
+      </Background>
+      <NumberToSelect>2</NumberToSelect>
+    </ServiceItem>
+    <ServiceItem xsi:type="BibleServiceItem">
+      <Title>Romans 1:1-32</Title>
+      <Index>rom-1:1-1:32</Index>
+      <NumberToSelect>3</NumberToSelect>
+    </ServiceItem>
+    <ServiceItem xsi:type="BibleServiceItem">
+      <Title>Hebrews 9:1-28</Title>
+      <Index>heb-9:1-9:28</Index>
+      <NumberToSelect>3</NumberToSelect>
+    </ServiceItem>
+    <ServiceItem xsi:type="BibleServiceItem">
+      <Title>Judges 16:30</Title>
+      <Index>jdg-16:30-16:30</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>255</R>
+          <G>255</G>
+          <B>255</B>
+        </Colour2>
+        <TypeOfGradient>Linear</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0</X>
+          <Y>0.5</Y>
+        </Point1>
+        <Point2>
+          <X>0.10204081632653061</X>
+          <Y>0.49801587301587291</Y>
+        </Point2>
+      </Background>
+      <NumberToSelect>3</NumberToSelect>
+    </ServiceItem>
+    <ServiceItem xsi:type="BibleServiceItem">
+      <Title>1 Kings 3:12</Title>
+      <Index>1ki-3:12-3:12</Index>
+      <NumberToSelect>3</NumberToSelect>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>Backup</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="VideoServiceItem">
+      <Title>[Karaoke TVCHH] 336 - ĐAU THƯƠNG TIÊU MẤT NƠI GÔ-GÔ-THA - Salibook.mp4</Title>
+      <Index>F:\My God\2019\[Karaoke TVCHH] 336 - ĐAU THƯƠNG TIÊU MẤT NƠI GÔ-GÔ-THA - Salibook.mp4</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+      <StartTimeTicks>0</StartTimeTicks>
+      <EndTimeTicks>1440550000</EndTimeTicks>
+      <Volume>100</Volume>
+      <Loop>false</Loop>
+      <MediaType>File</MediaType>
+      <Brightness>0</Brightness>
+      <Contrast>0</Contrast>
+    </ServiceItem>
+    <ServiceItem xsi:type="VideoServiceItem">
+      <Title>[Karaoke TVCHH] 333- CHA YÊU THƯƠNG - Salibook.mp4</Title>
+      <Index>F:\My God\2019\[Karaoke TVCHH] 333- CHA YÊU THƯƠNG - Salibook.mp4</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+      <StartTimeTicks>0</StartTimeTicks>
+      <EndTimeTicks>1625380000</EndTimeTicks>
+      <Volume>100</Volume>
+      <Loop>false</Loop>
+      <MediaType>File</MediaType>
+      <Brightness>0</Brightness>
+      <Contrast>0</Contrast>
+    </ServiceItem>
+    <ServiceItem xsi:type="VideoServiceItem">
+      <Title>VÌ JESUS SỐNG - Karaoke.mp4</Title>
+      <Index>F:\My God\2019\VÌ JESUS SỐNG - Karaoke.mp4</Index>
+      <StartTimeTicks>0</StartTimeTicks>
+      <EndTimeTicks>2471520000</EndTimeTicks>
+      <Volume>100</Volume>
+      <Loop>false</Loop>
+      <MediaType>File</MediaType>
+      <Brightness>0</Brightness>
+      <Contrast>0</Contrast>
+    </ServiceItem>
+    <ServiceItem xsi:type="VideoServiceItem">
+      <Title>[Karaoke TVCHH] 349- CHÚA HẰNG SỐNG - Salibook.mp4</Title>
+      <Index>F:\My God\2019\[Karaoke TVCHH] 349- CHÚA HẰNG SỐNG - Salibook.mp4</Index>
+      <StartTimeTicks>0</StartTimeTicks>
+      <EndTimeTicks>747670000</EndTimeTicks>
+      <Volume>100</Volume>
+      <Loop>false</Loop>
+      <MediaType>File</MediaType>
+      <Brightness>0</Brightness>
+      <Contrast>0</Contrast>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Cảm ơn Cha</Title>
+      <Index>Cảm ơn Cha ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="VideoServiceItem">
+      <Title>Cảm ơn Ngài _ Thank You Lord Don Moen (David Dong).mp4</Title>
+      <Index>F:\My God\2019\Cảm ơn Ngài _ Thank You Lord Don Moen (David Dong).mp4</Index>
+      <StartTimeTicks>0</StartTimeTicks>
+      <EndTimeTicks>2611300000</EndTimeTicks>
+      <Volume>100</Volume>
+      <Loop>false</Loop>
+      <MediaType>File</MediaType>
+      <Brightness>0</Brightness>
+      <Contrast>0</Contrast>
+    </ServiceItem>
+    <ServiceItem xsi:type="VideoServiceItem">
+      <Title>[Karaoke TVCHH] 199- NGÀI LÀ MUÔN NHU CẦU TÔI - Salibook.mp4</Title>
+      <Index>F:\Music\Karaoke\[Karaoke TVCHH] 199- NGÀI LÀ MUÔN NHU CẦU TÔI - Salibook.mp4</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+      <StartTimeTicks>0</StartTimeTicks>
+      <EndTimeTicks>2692820000</EndTimeTicks>
+      <Volume>100</Volume>
+      <Loop>false</Loop>
+      <MediaType>File</MediaType>
+      <Brightness>0</Brightness>
+      <Contrast>0</Contrast>
+    </ServiceItem>
+    <ServiceItem xsi:type="BibleServiceItem">
+      <Title>Matthew 11:4</Title>
+      <Index>mat-11:4-11:4</Index>
+      <NumberToSelect>3</NumberToSelect>
+    </ServiceItem>
+    <ServiceItem xsi:type="BibleServiceItem">
+      <Title>Matthew 11:4</Title>
+      <Index>mat-11:4-11:4</Index>
+      <NumberToSelect>3</NumberToSelect>
+    </ServiceItem>
+    <ServiceItem xsi:type="BibleServiceItem">
+      <Title>Matthew 11:1-30</Title>
+      <Index>mat-11:1-11:30</Index>
+      <NumberToSelect>3</NumberToSelect>
+    </ServiceItem>
+  </ServiceItems>
+  <Version>3.5.0</Version>
+</ServiceList>
