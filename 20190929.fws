@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ServiceItems>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Chúc tôn Vua vinh hiển</Title>
+      <Index>Chúc Tôn Vua Vinh Hiển () (1).xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Hãy vỗ tay</Title>
+      <Index>Hãy vỗ tay ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Hãy vỗ tay lên</Title>
+      <Index>Muôn dân vỗ tay ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Lên đường đi</Title>
+      <Index>Lên đường đi ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Trọn cả tấm lòng</Title>
+      <Index>Trọn cả tấm lòng ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Gần bên Chúa</Title>
+      <Index>Gần bên Chúa ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Biết ơn Chúa Giê-xu</Title>
+      <Index>Biết ơn Chúa Giê-xu ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>Header</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Tôn cao Danh Chúa</Title>
+      <Index>Tôn cao Danh Chúa ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Giê-xu, Giê-xu</Title>
+      <Index>Giê-xu, Giê-xu ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>Header</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Chúc tôn Vua vinh hiển</Title>
+      <Index>Chúc Tôn Vua Vinh Hiển () (1).xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Từ cõi lòng</Title>
+      <Index>Từ cõi lòng ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Trọn cả tấm lòng</Title>
+      <Index>Trọn cả tấm lòng ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Chạm lòng con</Title>
+      <Index>Chạm lòng con ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Gần bên Chúa</Title>
+      <Index>Gần bên Chúa ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+  </ServiceItems>
+  <Version>3.5.0</Version>
+</ServiceList>

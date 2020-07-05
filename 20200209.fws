@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ServiceItems>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Giê-hô-va Tsidkenu</Title>
+      <Index>Giê-hô-va Tsidkenu ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Hãy vỗ tay</Title>
+      <Index>Hãy vỗ tay ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Chúa quyền năng</Title>
+      <Index>Chúa quyền năng () (1).xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Vì Duy Chính Chúa</Title>
+      <Index>Vì Duy Chính Chúa ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Vua hằng còn muôn đời</Title>
+      <Index>Vua hằng còn muôn đời ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Dâng Chúa lời ngợi ca</Title>
+      <Index>Dâng Chúa lời ngợi ca ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>Header</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Xin Thần Linh Chúa đến</Title>
+      <Index>Xin Thần Linh Chúa đến ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Tình yêu lớn lao</Title>
+      <Index>Tình yêu lớn lao ().xml</Index>
+    </ServiceItem>
+  </ServiceItems>
+  <Version>3.5.0</Version>
+</ServiceList>

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ServiceItems>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Xuân an lành</Title>
+      <Index>Xuân an lành ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\newyear.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Hãy tôn vinh Ngài</Title>
+      <Index>Hãy tôn vinh Ngài ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\newyear.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Nhà Cha thiêng liêng</Title>
+      <Index>Nhà Cha thiêng liêng ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\newyear.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Mọi điều trong con</Title>
+      <Index>Mọi điều trong con ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\newyear.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Chúa ơi con thờ phượng Ngài</Title>
+      <Index>Chúa ơi con thờ phượng Ngài ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\newyear.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Ngài là muôn nhu cầu tôi</Title>
+      <Index>Ngài là muôn nhu cầu con ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\newyear.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>Header</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Hội Thánh Chúc Phước</Title>
+      <Index>Hội Thánh Chúc Phước ().xml</Index>
+      <Background xsi:type="VideoBackgroundSettings">
+        <VideoPath>...\Media\Backgrounds\Paisagens - 25137.mp4</VideoPath>
+        <Mute>true</Mute>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="BibleServiceItem">
+      <Title>Dân-Số 33:1-56</Title>
+      <Index>dan-33:1-33:56</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>255</R>
+          <G>255</G>
+          <B>255</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>255</R>
+          <G>255</G>
+          <B>255</B>
+        </Colour2>
+        <TypeOfGradient>Linear</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.10714285714285714</X>
+          <Y>0.49735449735449716</Y>
+        </Point1>
+        <Point2>
+          <X>0</X>
+          <Y>0.5</Y>
+        </Point2>
+      </Background>
+      <NumberToSelect>1</NumberToSelect>
+    </ServiceItem>
+  </ServiceItems>
+  <Version>3.5.0</Version>
+</ServiceList>

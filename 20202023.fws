@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ServiceItems>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Đại quyền, đại năng</Title>
+      <Index>Đại quyền, đại năng ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\Chirstmast.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Vua trên muôn Vua</Title>
+      <Index>Vua trên muôn Vua ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\Chirstmast.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Hát như Đa-vid xưa</Title>
+      <Index>Hát như David xưa ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\Chirstmast.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Nguyện cầu Thánh Linh</Title>
+      <Index>Nguyện cầu Thánh Linh ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\Chirstmast.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Dâng Chúa lời ngợi ca</Title>
+      <Index>Dâng Chúa lời ngợi ca ().xml</Index>
+      <Background xsi:type="VideoBackgroundSettings">
+        <VideoPath>...\Media\Backgrounds\christmas_video_animated.mp4</VideoPath>
+        <Mute>true</Mute>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>Header</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="BibleServiceItem">
+      <Title>Thi-thiên 31:1-24</Title>
+      <Index>thi-31:1-31:24</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>255</R>
+          <G>255</G>
+          <B>255</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>255</R>
+          <G>255</G>
+          <B>255</B>
+        </Colour2>
+        <TypeOfGradient>Linear</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.10714285714285714</X>
+          <Y>0.49735449735449716</Y>
+        </Point1>
+        <Point2>
+          <X>0</X>
+          <Y>0.5</Y>
+        </Point2>
+      </Background>
+      <NumberToSelect>1</NumberToSelect>
+    </ServiceItem>
+    <ServiceItem xsi:type="BibleServiceItem">
+      <Title>Xuất Hành 12:1-51</Title>
+      <Index>xu-12:1-12:51</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>255</R>
+          <G>255</G>
+          <B>255</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>255</R>
+          <G>255</G>
+          <B>255</B>
+        </Colour2>
+        <TypeOfGradient>Linear</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.10714285714285714</X>
+          <Y>0.49735449735449716</Y>
+        </Point1>
+        <Point2>
+          <X>0</X>
+          <Y>0.5</Y>
+        </Point2>
+      </Background>
+      <NumberToSelect>1</NumberToSelect>
+    </ServiceItem>
+  </ServiceItems>
+  <Version>3.5.0</Version>
+</ServiceList>
