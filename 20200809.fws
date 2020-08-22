@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ServiceItems>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Hãy đến với Ngài</Title>
+      <Index>Hãy đến với Ngài ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Giê-hô-va Tsidkenu</Title>
+      <Index>Giê-hô-va Tsidkenu ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Trong Cha</Title>
+      <Index>Trong Cha ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Nguyện cầu Thánh Linh</Title>
+      <Index>Nguyện cầu Thánh Linh ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Phục hưng</Title>
+      <Index>Phục hưng ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>Header</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="VideoServiceItem">
+      <Title>HÃY ĐẾN VỚI NGÀI!_ev8gECmVFv4_360p.mp4</Title>
+      <Index>F:\Music\Karaoke\HÃY ĐẾN VỚI NGÀI!_ev8gECmVFv4_360p.mp4</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+      <StartTimeTicks>0</StartTimeTicks>
+      <EndTimeTicks>2083760000</EndTimeTicks>
+      <Volume>100</Volume>
+      <Loop>false</Loop>
+      <MediaType>File</MediaType>
+      <Brightness>0</Brightness>
+      <Contrast>0</Contrast>
+    </ServiceItem>
+    <ServiceItem xsi:type="VideoServiceItem">
+      <Title>CA VANG DANH CHÚA_O-ou5YY_mFg_360p.mp4</Title>
+      <Index>F:\Music\Karaoke\CA VANG DANH CHÚA_O-ou5YY_mFg_360p.mp4</Index>
+      <StartTimeTicks>0</StartTimeTicks>
+      <EndTimeTicks>2691420000</EndTimeTicks>
+      <Volume>100</Volume>
+      <Loop>false</Loop>
+      <MediaType>File</MediaType>
+      <Brightness>0</Brightness>
+      <Contrast>0</Contrast>
+    </ServiceItem>
+    <ServiceItem xsi:type="VideoServiceItem">
+      <Title>TRONG CHA  - Salibook.mp4</Title>
+      <Index>F:\Music\Karaoke\TRONG CHA  - Salibook.mp4</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+      <StartTimeTicks>0</StartTimeTicks>
+      <EndTimeTicks>1974860000</EndTimeTicks>
+      <Volume>100</Volume>
+      <Loop>false</Loop>
+      <MediaType>File</MediaType>
+      <Brightness>0</Brightness>
+      <Contrast>0</Contrast>
+    </ServiceItem>
+    <ServiceItem xsi:type="VideoServiceItem">
+      <Title>NGUYỆN CẦU THÁNH LINH NGÀI.mp4</Title>
+      <Index>F:\Music\Karaoke\NGUYỆN CẦU THÁNH LINH NGÀI.mp4</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+      <StartTimeTicks>0</StartTimeTicks>
+      <EndTimeTicks>2723470000</EndTimeTicks>
+      <Volume>100</Volume>
+      <Loop>false</Loop>
+      <MediaType>File</MediaType>
+      <Brightness>0</Brightness>
+      <Contrast>0</Contrast>
+    </ServiceItem>
+    <ServiceItem xsi:type="VideoServiceItem">
+      <Title>PHỤC HƯNG - Salibook_W3wYblF7xCI_1080p.mp4</Title>
+      <Index>F:\Music\Karaoke\PHỤC HƯNG - Salibook_W3wYblF7xCI_1080p.mp4</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+      <StartTimeTicks>0</StartTimeTicks>
+      <EndTimeTicks>2516350000</EndTimeTicks>
+      <Volume>100</Volume>
+      <Loop>false</Loop>
+      <MediaType>File</MediaType>
+      <Brightness>0</Brightness>
+      <Contrast>0</Contrast>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Msg</Title>
+      <Index>Msg ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+  </ServiceItems>
+  <Version>3.5.0</Version>
+</ServiceList>

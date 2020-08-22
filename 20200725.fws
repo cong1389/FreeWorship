@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ServiceItems>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Một ngày tươi mới</Title>
+      <Index>Một ngày tươi mới ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Mừng vui trong Danh</Title>
+      <Index>Mừng vui trong Danh ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Trong Danh Cứu Chúa Giê-su</Title>
+      <Index>Trong Danh Cứu Chúa Giê-sus ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Vì Duy Chính Chúa</Title>
+      <Index>Vì Duy Chính Chúa ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Cảm ơn Cha</Title>
+      <Index>Cảm ơn Cha ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>255</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>72</R>
+          <G>209</G>
+          <B>204</B>
+        </Colour2>
+        <TypeOfGradient>Linear</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0.5</Y>
+        </Point1>
+        <Point2>
+          <X>0.507580945820894</X>
+          <Y>0.74372833957862772</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Hiến cả thảy cho Ngài</Title>
+      <Index>Hiến cả thảy cho Ngài () (1).xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Hội Thánh Chúc Phước</Title>
+      <Index>Hội Thánh Chúc Phước ().xml</Index>
+      <Background xsi:type="VideoBackgroundSettings">
+        <VideoPath>...\Media\Backgrounds\Paisagens - 25137.mp4</VideoPath>
+        <Mute>true</Mute>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>Header</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="BibleServiceItem">
+      <Title>MaThiƠ 16:1-28</Title>
+      <Index>mat-16:1-16:28</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>255</R>
+          <G>255</G>
+          <B>255</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>255</R>
+          <G>255</G>
+          <B>255</B>
+        </Colour2>
+        <TypeOfGradient>Linear</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.10714285714285714</X>
+          <Y>0.49735449735449716</Y>
+        </Point1>
+        <Point2>
+          <X>0</X>
+          <Y>0.5</Y>
+        </Point2>
+      </Background>
+      <NumberToSelect>4</NumberToSelect>
+    </ServiceItem>
+  </ServiceItems>
+  <Version>3.5.0</Version>
+</ServiceList>
