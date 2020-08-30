@@ -19,8 +19,8 @@
           <FontAlignment>Center</FontAlignment>
           <FontColour>
             <A>255</A>
-            <R>255</R>
-            <G>255</G>
+            <R>0</R>
+            <G>0</G>
             <B>255</B>
           </FontColour>
           <VerticalAlignment>Top</VerticalAlignment>
@@ -38,9 +38,9 @@
             <Enabled>true</Enabled>
             <Colour>
               <A>255</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
+              <R>255</R>
+              <G>255</G>
+              <B>255</B>
             </Colour>
             <Size>7</Size>
             <Blur>7</Blur>
@@ -57,7 +57,7 @@
       </Style>
       <Background xsi:type="ImageBackgroundSettings">
         <ImagePath>...\Media\Backgrounds\We Are More Than Champions.jpg</ImagePath>
-        <FillType>Center</FillType>
+        <FillType>CropToFill</FillType>
       </Background>
     </ServiceItem>
     <ServiceItem xsi:type="SongServiceItem">
@@ -78,8 +78,8 @@
           <FontAlignment>Center</FontAlignment>
           <FontColour>
             <A>255</A>
-            <R>255</R>
-            <G>255</G>
+            <R>0</R>
+            <G>0</G>
             <B>255</B>
           </FontColour>
           <VerticalAlignment>Top</VerticalAlignment>
@@ -97,9 +97,9 @@
             <Enabled>true</Enabled>
             <Colour>
               <A>255</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
+              <R>255</R>
+              <G>255</G>
+              <B>255</B>
             </Colour>
             <Size>7</Size>
             <Blur>7</Blur>
@@ -116,7 +116,7 @@
       </Style>
       <Background xsi:type="ImageBackgroundSettings">
         <ImagePath>...\Media\Backgrounds\wp2958151-worship-wallpaper.jpg</ImagePath>
-        <FillType>Center</FillType>
+        <FillType>CropToFill</FillType>
       </Background>
     </ServiceItem>
     <ServiceItem xsi:type="SongServiceItem">
@@ -137,8 +137,8 @@
           <FontAlignment>Center</FontAlignment>
           <FontColour>
             <A>255</A>
-            <R>255</R>
-            <G>255</G>
+            <R>0</R>
+            <G>0</G>
             <B>255</B>
           </FontColour>
           <VerticalAlignment>Top</VerticalAlignment>
@@ -156,9 +156,9 @@
             <Enabled>true</Enabled>
             <Colour>
               <A>255</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
+              <R>255</R>
+              <G>255</G>
+              <B>255</B>
             </Colour>
             <Size>7</Size>
             <Blur>7</Blur>
@@ -175,7 +175,7 @@
       </Style>
       <Background xsi:type="ImageBackgroundSettings">
         <ImagePath>...\Media\Backgrounds\wp2958151-worship-wallpaper.jpg</ImagePath>
-        <FillType>Center</FillType>
+        <FillType>CropToFill</FillType>
       </Background>
     </ServiceItem>
     <ServiceItem xsi:type="SongServiceItem">
@@ -196,8 +196,8 @@
           <FontAlignment>Center</FontAlignment>
           <FontColour>
             <A>255</A>
-            <R>255</R>
-            <G>255</G>
+            <R>0</R>
+            <G>0</G>
             <B>255</B>
           </FontColour>
           <VerticalAlignment>Top</VerticalAlignment>
@@ -215,9 +215,9 @@
             <Enabled>true</Enabled>
             <Colour>
               <A>255</A>
-              <R>0</R>
-              <G>0</G>
-              <B>0</B>
+              <R>255</R>
+              <G>255</G>
+              <B>255</B>
             </Colour>
             <Size>7</Size>
             <Blur>7</Blur>
@@ -234,14 +234,167 @@
       </Style>
       <Background xsi:type="ImageBackgroundSettings">
         <ImagePath>...\Media\Backgrounds\wp2958151-worship-wallpaper.jpg</ImagePath>
-        <FillType>Center</FillType>
+        <FillType>CropToFill</FillType>
       </Background>
     </ServiceItem>
     <ServiceItem xsi:type="SongServiceItem">
       <Title>Cảm ơn Cha</Title>
       <Index>Cảm ơn Cha ().xml</Index>
+      <Style xsi:type="SongStyle">
+        <Margins>
+          <Left>2</Left>
+          <Top>2</Top>
+          <Right>2</Right>
+          <Bottom>2</Bottom>
+        </Margins>
+        <Font>
+          <FontFamily>Elephant-u</FontFamily>
+          <Bold>true</Bold>
+          <Italic>false</Italic>
+          <FontSize>72</FontSize>
+          <FontAlignment>Center</FontAlignment>
+          <FontColour>
+            <A>255</A>
+            <R>0</R>
+            <G>0</G>
+            <B>255</B>
+          </FontColour>
+          <VerticalAlignment>Top</VerticalAlignment>
+          <Outline>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>1</Size>
+          </Outline>
+          <Shadow>
+            <Enabled>true</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>255</R>
+              <G>255</G>
+              <B>255</B>
+            </Colour>
+            <Size>7</Size>
+            <Blur>7</Blur>
+            <Direction>165</Direction>
+          </Shadow>
+        </Font>
+        <AutoSize>true</AutoSize>
+        <Wrap>true</Wrap>
+        <ShowVerseNumber>false</ShowVerseNumber>
+        <ShowChorusName>false</ShowChorusName>
+        <ShowVerseName>false</ShowVerseName>
+        <ShowVerseChorusNamesInCaps>false</ShowVerseChorusNamesInCaps>
+        <ForceChorusInItalics>false</ForceChorusInItalics>
+      </Style>
       <Background xsi:type="ImageBackgroundSettings">
         <ImagePath>...\Media\Backgrounds\wp2958151-worship-wallpaper.jpg</ImagePath>
+        <FillType>CropToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>Header</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="VideoServiceItem">
+      <Title>y2mate.com - FO Miền Nam_CkW7KsW1Pwo_1080p.mp4</Title>
+      <Index>E:\Rac\y2mate.com - FO Miền Nam_CkW7KsW1Pwo_1080p.mp4</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+      <StartTimeTicks>0</StartTimeTicks>
+      <EndTimeTicks>4987420000</EndTimeTicks>
+      <Volume>100</Volume>
+      <Loop>false</Loop>
+      <MediaType>File</MediaType>
+      <Brightness>0</Brightness>
+      <Contrast>0</Contrast>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>Header</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Nhưng trước hết</Title>
+      <Index>Nhưng trước hết ().xml</Index>
+      <Style xsi:type="SongStyle">
+        <Margins>
+          <Left>2</Left>
+          <Top>2</Top>
+          <Right>2</Right>
+          <Bottom>2</Bottom>
+        </Margins>
+        <Font>
+          <FontFamily>Elephant-u</FontFamily>
+          <Bold>true</Bold>
+          <Italic>false</Italic>
+          <FontSize>72</FontSize>
+          <FontAlignment>Center</FontAlignment>
+          <FontColour>
+            <A>255</A>
+            <R>0</R>
+            <G>0</G>
+            <B>255</B>
+          </FontColour>
+          <VerticalAlignment>Top</VerticalAlignment>
+          <Outline>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>1</Size>
+          </Outline>
+          <Shadow>
+            <Enabled>true</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>255</R>
+              <G>255</G>
+              <B>255</B>
+            </Colour>
+            <Size>7</Size>
+            <Blur>7</Blur>
+            <Direction>165</Direction>
+          </Shadow>
+        </Font>
+        <AutoSize>true</AutoSize>
+        <Wrap>true</Wrap>
+        <ShowVerseNumber>false</ShowVerseNumber>
+        <ShowChorusName>false</ShowChorusName>
+        <ShowVerseName>false</ShowVerseName>
+        <ShowVerseChorusNamesInCaps>false</ShowVerseChorusNamesInCaps>
+        <ForceChorusInItalics>false</ForceChorusInItalics>
+      </Style>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\Your Love Is Too Great.jpg</ImagePath>
         <FillType>Center</FillType>
       </Background>
     </ServiceItem>
