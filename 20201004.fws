@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ServiceItems>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Trong danh Chúa Giê-xu</Title>
+      <Index>Trong danh Chúa Giê-xu ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Cùng ca vang Ha-lê-lu-gia</Title>
+      <Index>Cùng ca vang Ha-lê-lu-gia ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Mọi suy tôn thuộc Vua</Title>
+      <Index>Mọi suy tôn thuộc Vua ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Chúa được tôn cao</Title>
+      <Index>Chúa được tôn cao ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Vững an</Title>
+      <Index>Vững an ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Chiên con thật đáng tôn</Title>
+      <Index>Chiên con thật đáng tôn ().xml</Index>
+    </ServiceItem>
+  </ServiceItems>
+  <Version>3.5.0</Version>
+</ServiceList>
