@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ServiceItems>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Cùng ca vang Ha-lê-lu-gia</Title>
+      <Index>Cùng ca vang Ha-lê-lu-gia ().xml</Index>
+      <Style xsi:type="SongStyle">
+        <Margins>
+          <Left>2</Left>
+          <Top>2</Top>
+          <Right>2</Right>
+          <Bottom>2</Bottom>
+        </Margins>
+        <Font>
+          <FontFamily>Elephant-u</FontFamily>
+          <Bold>true</Bold>
+          <Italic>false</Italic>
+          <FontSize>72</FontSize>
+          <FontAlignment>Center</FontAlignment>
+          <FontColour>
+            <A>255</A>
+            <R>0</R>
+            <G>0</G>
+            <B>255</B>
+          </FontColour>
+          <VerticalAlignment>Top</VerticalAlignment>
+          <Outline>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>1</Size>
+          </Outline>
+          <Shadow>
+            <Enabled>true</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>255</R>
+              <G>255</G>
+              <B>255</B>
+            </Colour>
+            <Size>3</Size>
+            <Blur>5</Blur>
+            <Direction>-35</Direction>
+          </Shadow>
+        </Font>
+        <AutoSize>true</AutoSize>
+        <Wrap>true</Wrap>
+        <ShowVerseNumber>false</ShowVerseNumber>
+        <ShowChorusName>false</ShowChorusName>
+        <ShowVerseName>false</ShowVerseName>
+        <ShowVerseChorusNamesInCaps>false</ShowVerseChorusNamesInCaps>
+        <ForceChorusInItalics>false</ForceChorusInItalics>
+      </Style>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\We Are More Than Champions.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Dâng Chúa lời ngợi ca</Title>
+      <Index>Dâng Chúa lời ngợi ca ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\wp2958151-worship-wallpaper.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Danh cao quý</Title>
+      <Index>Danh cao quý ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\wp2958151-worship-wallpaper.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Giê-xu, yêu Ngài hơn cả mọi điều</Title>
+      <Index>Giê-xu, yêu Ngài hơn cả mọi điều ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\wp2958151-worship-wallpaper.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Con yêu Ngài</Title>
+      <Index>Con yêu Ngài ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\wp2958151-worship-wallpaper.jpg</ImagePath>
+        <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>Header</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="BibleServiceItem">
+      <Title>ThiThien 145:1-6</Title>
+      <Index>thi-145:1-145:6</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>255</R>
+          <G>255</G>
+          <B>255</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>255</R>
+          <G>255</G>
+          <B>255</B>
+        </Colour2>
+        <TypeOfGradient>Linear</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.10714285714285714</X>
+          <Y>0.49735449735449716</Y>
+        </Point1>
+        <Point2>
+          <X>0</X>
+          <Y>0.5</Y>
+        </Point2>
+      </Background>
+      <NumberToSelect>1</NumberToSelect>
+    </ServiceItem>
+    <ServiceItem xsi:type="BibleServiceItem">
+      <Title>ThiThien 145:8-15</Title>
+      <Index>thi-145:8-145:15</Index>
+      <NumberToSelect>3</NumberToSelect>
+    </ServiceItem>
+    <ServiceItem xsi:type="BibleServiceItem">
+      <Title>ThiThien 145:17-18</Title>
+      <Index>thi-145:17-145:18</Index>
+      <NumberToSelect>3</NumberToSelect>
+    </ServiceItem>
+    <ServiceItem xsi:type="BibleServiceItem">
+      <Title>ThiThien 145:20-21</Title>
+      <Index>thi-145:20-145:21</Index>
+      <NumberToSelect>3</NumberToSelect>
+    </ServiceItem>
+  </ServiceItems>
+  <Version>3.5.0</Version>
+</ServiceList>

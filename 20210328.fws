@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ServiceItems>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Xin Thần Linh đến</Title>
+      <Index>Từ cõi lòng ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\I-Come-To-The-Cross-and-Worship-Thee.jpg</ImagePath>
+        <FillType>CropToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>Header</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Cung kính tôn vinh</Title>
+      <Index>Cung kính tôn vinh ().xml</Index>
+      <Style xsi:type="SongStyle">
+        <Margins>
+          <Left>2</Left>
+          <Top>2</Top>
+          <Right>2</Right>
+          <Bottom>2</Bottom>
+        </Margins>
+        <Font>
+          <FontFamily>Elephant-u</FontFamily>
+          <Bold>true</Bold>
+          <Italic>false</Italic>
+          <FontSize>72</FontSize>
+          <FontAlignment>Center</FontAlignment>
+          <FontColour>
+            <A>255</A>
+            <R>255</R>
+            <G>0</G>
+            <B>0</B>
+          </FontColour>
+          <VerticalAlignment>Top</VerticalAlignment>
+          <Outline>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>1</Size>
+          </Outline>
+          <Shadow>
+            <Enabled>true</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>255</R>
+              <G>255</G>
+              <B>255</B>
+            </Colour>
+            <Size>3</Size>
+            <Blur>5</Blur>
+            <Direction>-35</Direction>
+          </Shadow>
+        </Font>
+        <AutoSize>true</AutoSize>
+        <Wrap>true</Wrap>
+        <ShowVerseNumber>false</ShowVerseNumber>
+        <ShowChorusName>false</ShowChorusName>
+        <ShowVerseName>false</ShowVerseName>
+        <ShowVerseChorusNamesInCaps>false</ShowVerseChorusNamesInCaps>
+        <ForceChorusInItalics>false</ForceChorusInItalics>
+      </Style>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\google-now-day-mountains.jpg</ImagePath>
+        <FillType>CropToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Nguyện Danh Chúa được tôn cao</Title>
+      <Index>Nguyện Danh Chúa được tôn cao ().xml</Index>
+      <Style xsi:type="SongStyle">
+        <Margins>
+          <Left>2</Left>
+          <Top>2</Top>
+          <Right>2</Right>
+          <Bottom>2</Bottom>
+        </Margins>
+        <Font>
+          <FontFamily>Elephant-u</FontFamily>
+          <Bold>true</Bold>
+          <Italic>false</Italic>
+          <FontSize>72</FontSize>
+          <FontAlignment>Center</FontAlignment>
+          <FontColour>
+            <A>255</A>
+            <R>255</R>
+            <G>0</G>
+            <B>0</B>
+          </FontColour>
+          <VerticalAlignment>Top</VerticalAlignment>
+          <Outline>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>1</Size>
+          </Outline>
+          <Shadow>
+            <Enabled>true</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>255</R>
+              <G>255</G>
+              <B>255</B>
+            </Colour>
+            <Size>3</Size>
+            <Blur>5</Blur>
+            <Direction>-35</Direction>
+          </Shadow>
+        </Font>
+        <AutoSize>true</AutoSize>
+        <Wrap>true</Wrap>
+        <ShowVerseNumber>false</ShowVerseNumber>
+        <ShowChorusName>false</ShowChorusName>
+        <ShowVerseName>false</ShowVerseName>
+        <ShowVerseChorusNamesInCaps>false</ShowVerseChorusNamesInCaps>
+        <ForceChorusInItalics>false</ForceChorusInItalics>
+      </Style>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\google-now-day-mountains.jpg</ImagePath>
+        <FillType>CropToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Vinh diệu chiên con</Title>
+      <Index>Vinh diệu chiên con ().xml</Index>
+      <Style xsi:type="SongStyle">
+        <Margins>
+          <Left>2</Left>
+          <Top>2</Top>
+          <Right>2</Right>
+          <Bottom>2</Bottom>
+        </Margins>
+        <Font>
+          <FontFamily>Elephant-u</FontFamily>
+          <Bold>true</Bold>
+          <Italic>false</Italic>
+          <FontSize>72</FontSize>
+          <FontAlignment>Center</FontAlignment>
+          <FontColour>
+            <A>255</A>
+            <R>255</R>
+            <G>0</G>
+            <B>0</B>
+          </FontColour>
+          <VerticalAlignment>Top</VerticalAlignment>
+          <Outline>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>1</Size>
+          </Outline>
+          <Shadow>
+            <Enabled>true</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>255</R>
+              <G>255</G>
+              <B>255</B>
+            </Colour>
+            <Size>3</Size>
+            <Blur>5</Blur>
+            <Direction>-35</Direction>
+          </Shadow>
+        </Font>
+        <AutoSize>true</AutoSize>
+        <Wrap>true</Wrap>
+        <ShowVerseNumber>false</ShowVerseNumber>
+        <ShowChorusName>false</ShowChorusName>
+        <ShowVerseName>false</ShowVerseName>
+        <ShowVerseChorusNamesInCaps>false</ShowVerseChorusNamesInCaps>
+        <ForceChorusInItalics>false</ForceChorusInItalics>
+      </Style>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\google-now-day-mountains.jpg</ImagePath>
+        <FillType>CropToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Giê-su con suy tôn Ngài</Title>
+      <Index>Giê-su con suy tôn Ngài ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\Your Love Is Too Great.jpg</ImagePath>
+        <FillType>CropToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Vượt trên tất cả</Title>
+      <Index>Vượt trên hết năng quyền ().xml</Index>
+      <Style xsi:type="SongStyle">
+        <Margins>
+          <Left>2</Left>
+          <Top>2</Top>
+          <Right>2</Right>
+          <Bottom>2</Bottom>
+        </Margins>
+        <Font>
+          <FontFamily>Elephant-u</FontFamily>
+          <Bold>true</Bold>
+          <Italic>false</Italic>
+          <FontSize>72</FontSize>
+          <FontAlignment>Center</FontAlignment>
+          <FontColour>
+            <A>255</A>
+            <R>255</R>
+            <G>0</G>
+            <B>0</B>
+          </FontColour>
+          <VerticalAlignment>Top</VerticalAlignment>
+          <Outline>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>1</Size>
+          </Outline>
+          <Shadow>
+            <Enabled>true</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>255</R>
+              <G>255</G>
+              <B>255</B>
+            </Colour>
+            <Size>3</Size>
+            <Blur>5</Blur>
+            <Direction>-35</Direction>
+          </Shadow>
+        </Font>
+        <AutoSize>true</AutoSize>
+        <Wrap>true</Wrap>
+        <ShowVerseNumber>false</ShowVerseNumber>
+        <ShowChorusName>false</ShowChorusName>
+        <ShowVerseName>false</ShowVerseName>
+        <ShowVerseChorusNamesInCaps>false</ShowVerseChorusNamesInCaps>
+        <ForceChorusInItalics>false</ForceChorusInItalics>
+      </Style>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\google-now-day-mountains.jpg</ImagePath>
+        <FillType>CropToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Dâng Chúa đời con</Title>
+      <Index>Dâng Chúa Đời Con ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\Your Love Is Too Great.jpg</ImagePath>
+        <FillType>CropToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>Header</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Quyền năng lớn thay</Title>
+      <Index>Quyền năng lớn thay ().xml</Index>
+      <Style xsi:type="SongStyle">
+        <Margins>
+          <Left>2</Left>
+          <Top>2</Top>
+          <Right>2</Right>
+          <Bottom>2</Bottom>
+        </Margins>
+        <Font>
+          <FontFamily>Elephant-u</FontFamily>
+          <Bold>true</Bold>
+          <Italic>false</Italic>
+          <FontSize>72</FontSize>
+          <FontAlignment>Center</FontAlignment>
+          <FontColour>
+            <A>255</A>
+            <R>255</R>
+            <G>0</G>
+            <B>0</B>
+          </FontColour>
+          <VerticalAlignment>Top</VerticalAlignment>
+          <Outline>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>1</Size>
+          </Outline>
+          <Shadow>
+            <Enabled>true</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>255</R>
+              <G>255</G>
+              <B>255</B>
+            </Colour>
+            <Size>3</Size>
+            <Blur>5</Blur>
+            <Direction>-35</Direction>
+          </Shadow>
+        </Font>
+        <AutoSize>true</AutoSize>
+        <Wrap>true</Wrap>
+        <ShowVerseNumber>false</ShowVerseNumber>
+        <ShowChorusName>false</ShowChorusName>
+        <ShowVerseName>false</ShowVerseName>
+        <ShowVerseChorusNamesInCaps>false</ShowVerseChorusNamesInCaps>
+        <ForceChorusInItalics>false</ForceChorusInItalics>
+      </Style>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\81fafa6d-840b-4e46-a07a-66657655e909.jpg</ImagePath>
+        <FillType>CropToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="BibleServiceItem">
+      <Title>EPheSo 2:1-22</Title>
+      <Index>eph-2:1-2:22</Index>
+      <NumberToSelect>1</NumberToSelect>
+    </ServiceItem>
+    <ServiceItem xsi:type="BibleServiceItem">
+      <Title>SangThe 3:1-24</Title>
+      <Index>sa-3:1-3:24</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>255</R>
+          <G>255</G>
+          <B>255</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>255</R>
+          <G>255</G>
+          <B>255</B>
+        </Colour2>
+        <TypeOfGradient>Linear</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.10714285714285714</X>
+          <Y>0.49735449735449716</Y>
+        </Point1>
+        <Point2>
+          <X>0</X>
+          <Y>0.5</Y>
+        </Point2>
+      </Background>
+      <NumberToSelect>2</NumberToSelect>
+    </ServiceItem>
+    <ServiceItem xsi:type="BibleServiceItem">
+      <Title>ThiThien 93:1-5</Title>
+      <Index>thi-93:1-93:5</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>255</R>
+          <G>255</G>
+          <B>255</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>255</R>
+          <G>255</G>
+          <B>255</B>
+        </Colour2>
+        <TypeOfGradient>Linear</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.10714285714285714</X>
+          <Y>0.49735449735449716</Y>
+        </Point1>
+        <Point2>
+          <X>0</X>
+          <Y>0.5</Y>
+        </Point2>
+      </Background>
+      <NumberToSelect>3</NumberToSelect>
+    </ServiceItem>
+    <ServiceItem xsi:type="BibleServiceItem">
+      <Title>ThiThien 93:1</Title>
+      <Index>thi-93:1-93:1</Index>
+      <NumberToSelect>3</NumberToSelect>
+    </ServiceItem>
+    <ServiceItem xsi:type="BibleServiceItem">
+      <Title>ThiThien 93:1-5</Title>
+      <Index>thi-93:1-93:5</Index>
+      <NumberToSelect>3</NumberToSelect>
+    </ServiceItem>
+  </ServiceItems>
+  <Version>3.5.0</Version>
+</ServiceList>
