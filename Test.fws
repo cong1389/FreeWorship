@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ServiceItems>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>BÀI 138: NHÌN NAI KIA</Title> 
+      <Index>BÀI 138 NHÌN NAI KIA ().xml</Index>
+      <Style xsi:type="SongStyle">
+        <Margins>
+          <Left>1</Left>
+          <Top>26.408434470133564</Top>
+          <Right>1</Right>
+          <Bottom>2</Bottom>
+        </Margins>
+        <Font>
+          <FontFamily>Times New Roman</FontFamily>
+          <Bold>true</Bold>
+          <Italic>false</Italic>
+          <FontSize>60</FontSize>
+          <FontAlignment>Center</FontAlignment>
+          <FontColour>
+            <A>255</A>
+            <R>255</R>
+            <G>255</G>
+            <B>255</B>
+          </FontColour>
+          <VerticalAlignment>Center</VerticalAlignment>
+          <Outline>
+            <Enabled>true</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>255</R>
+              <G>255</G>
+              <B>255</B>
+            </Colour>
+            <Size>2</Size>
+          </Outline>
+          <Shadow>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>255</R>
+              <G>255</G>
+              <B>255</B>
+            </Colour>
+            <Size>3</Size>
+            <Blur>5</Blur>
+            <Direction>-35</Direction>
+          </Shadow>
+        </Font>
+        <AutoSize>true</AutoSize>
+        <Wrap>true</Wrap>
+        <ShowVerseNumber>false</ShowVerseNumber>
+        <ShowChorusName>false</ShowChorusName>
+        <ShowVerseName>false</ShowVerseName>
+        <ShowVerseChorusNamesInCaps>false</ShowVerseChorusNamesInCaps>
+        <ForceChorusInItalics>false</ForceChorusInItalics>
+      </Style>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgMorning.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+  </ServiceItems>
+  <Version>3.5.0</Version>
+</ServiceList>

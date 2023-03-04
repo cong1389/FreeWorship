@@ -1,0 +1,789 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ServiceItems>
+    <ServiceItem xsi:type="SlidesServiceItem">
+      <Title>Chương trình</Title>
+      <Index>Chương trình</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Chúa nhân từ thay</Title>
+      <Index>BÀI 316 CHÚA NHÂN TỪ ().xml</Index>
+      <Style xsi:type="SongStyle">
+        <Margins>
+          <Left>2</Left>
+          <Top>25</Top>
+          <Right>2.0000000000000142</Right>
+          <Bottom>2.0000000000000142</Bottom>
+        </Margins>
+        <Font>
+          <FontFamily>Times New Roman</FontFamily>
+          <Bold>true</Bold>
+          <Italic>false</Italic>
+          <FontSize>60</FontSize>
+          <FontAlignment>Center</FontAlignment>
+          <FontColour>
+            <A>255</A>
+            <R>255</R>
+            <G>255</G>
+            <B>255</B>
+          </FontColour>
+          <VerticalAlignment>Center</VerticalAlignment>
+          <Outline>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>1</Size>
+          </Outline>
+          <Shadow>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>3</Size>
+            <Blur>5</Blur>
+            <Direction>-35</Direction>
+          </Shadow>
+        </Font>
+        <AutoSize>true</AutoSize>
+        <Wrap>true</Wrap>
+        <ShowVerseNumber>false</ShowVerseNumber>
+        <ShowChorusName>false</ShowChorusName>
+        <ShowVerseName>false</ShowVerseName>
+        <ShowVerseChorusNamesInCaps>false</ShowVerseChorusNamesInCaps>
+        <ForceChorusInItalics>false</ForceChorusInItalics>
+      </Style>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgMorning.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SlidesServiceItem">
+      <Title>KT</Title>
+      <Index>KT</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>1. Ngợi khen-Thờ phượng</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Hãy tôn vinh Ngài</Title>
+      <Index>Hãy tôn vinh Ngài ().xml</Index>
+      <Style xsi:type="SongStyle">
+        <Margins>
+          <Left>2</Left>
+          <Top>25</Top>
+          <Right>2.0000000000000142</Right>
+          <Bottom>2.0000000000000142</Bottom>
+        </Margins>
+        <Font>
+          <FontFamily>Times New Roman</FontFamily>
+          <Bold>true</Bold>
+          <Italic>false</Italic>
+          <FontSize>60</FontSize>
+          <FontAlignment>Center</FontAlignment>
+          <FontColour>
+            <A>255</A>
+            <R>255</R>
+            <G>255</G>
+            <B>255</B>
+          </FontColour>
+          <VerticalAlignment>Center</VerticalAlignment>
+          <Outline>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>1</Size>
+          </Outline>
+          <Shadow>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>3</Size>
+            <Blur>5</Blur>
+            <Direction>-35</Direction>
+          </Shadow>
+        </Font>
+        <AutoSize>true</AutoSize>
+        <Wrap>true</Wrap>
+        <ShowVerseNumber>false</ShowVerseNumber>
+        <ShowChorusName>false</ShowChorusName>
+        <ShowVerseName>false</ShowVerseName>
+        <ShowVerseChorusNamesInCaps>false</ShowVerseChorusNamesInCaps>
+        <ForceChorusInItalics>false</ForceChorusInItalics>
+      </Style>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgMorning.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Múa hát, hãy vỗ tay</Title>
+      <Index>Múa hát, hãy vỗ tay ().xml</Index>
+      <Style xsi:type="SongStyle">
+        <Margins>
+          <Left>2</Left>
+          <Top>25</Top>
+          <Right>2.0000000000000142</Right>
+          <Bottom>2.0000000000000142</Bottom>
+        </Margins>
+        <Font>
+          <FontFamily>Times New Roman</FontFamily>
+          <Bold>true</Bold>
+          <Italic>false</Italic>
+          <FontSize>60</FontSize>
+          <FontAlignment>Center</FontAlignment>
+          <FontColour>
+            <A>255</A>
+            <R>255</R>
+            <G>255</G>
+            <B>255</B>
+          </FontColour>
+          <VerticalAlignment>Center</VerticalAlignment>
+          <Outline>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>1</Size>
+          </Outline>
+          <Shadow>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>3</Size>
+            <Blur>5</Blur>
+            <Direction>-35</Direction>
+          </Shadow>
+        </Font>
+        <AutoSize>true</AutoSize>
+        <Wrap>true</Wrap>
+        <ShowVerseNumber>false</ShowVerseNumber>
+        <ShowChorusName>false</ShowChorusName>
+        <ShowVerseName>false</ShowVerseName>
+        <ShowVerseChorusNamesInCaps>false</ShowVerseChorusNamesInCaps>
+        <ForceChorusInItalics>false</ForceChorusInItalics>
+      </Style>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgMorning.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Nào cùng nhau ta lớn tiếng hát vui mừng</Title>
+      <Index>BÀI 10 NÀO CÙNG NHAU TA LỚN TIẾNG HÁT VUI MỪNG ().xml</Index>
+      <Style xsi:type="SongStyle">
+        <Margins>
+          <Left>2</Left>
+          <Top>25</Top>
+          <Right>2.0000000000000142</Right>
+          <Bottom>2.0000000000000142</Bottom>
+        </Margins>
+        <Font>
+          <FontFamily>Times New Roman</FontFamily>
+          <Bold>true</Bold>
+          <Italic>false</Italic>
+          <FontSize>60</FontSize>
+          <FontAlignment>Center</FontAlignment>
+          <FontColour>
+            <A>255</A>
+            <R>255</R>
+            <G>255</G>
+            <B>255</B>
+          </FontColour>
+          <VerticalAlignment>Center</VerticalAlignment>
+          <Outline>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>1</Size>
+          </Outline>
+          <Shadow>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>3</Size>
+            <Blur>5</Blur>
+            <Direction>-35</Direction>
+          </Shadow>
+        </Font>
+        <AutoSize>true</AutoSize>
+        <Wrap>true</Wrap>
+        <ShowVerseNumber>false</ShowVerseNumber>
+        <ShowChorusName>false</ShowChorusName>
+        <ShowVerseName>false</ShowVerseName>
+        <ShowVerseChorusNamesInCaps>false</ShowVerseChorusNamesInCaps>
+        <ForceChorusInItalics>false</ForceChorusInItalics>
+      </Style>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgMorning.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Chúa là tốt lành</Title>
+      <Index>Chúa quyền năng () (1).xml</Index>
+      <Style xsi:type="SongStyle">
+        <Margins>
+          <Left>2</Left>
+          <Top>25</Top>
+          <Right>2.0000000000000142</Right>
+          <Bottom>2.0000000000000142</Bottom>
+        </Margins>
+        <Font>
+          <FontFamily>Times New Roman</FontFamily>
+          <Bold>true</Bold>
+          <Italic>false</Italic>
+          <FontSize>60</FontSize>
+          <FontAlignment>Center</FontAlignment>
+          <FontColour>
+            <A>255</A>
+            <R>255</R>
+            <G>255</G>
+            <B>255</B>
+          </FontColour>
+          <VerticalAlignment>Center</VerticalAlignment>
+          <Outline>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>1</Size>
+          </Outline>
+          <Shadow>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>3</Size>
+            <Blur>5</Blur>
+            <Direction>-35</Direction>
+          </Shadow>
+        </Font>
+        <AutoSize>true</AutoSize>
+        <Wrap>true</Wrap>
+        <ShowVerseNumber>false</ShowVerseNumber>
+        <ShowChorusName>false</ShowChorusName>
+        <ShowVerseName>false</ShowVerseName>
+        <ShowVerseChorusNamesInCaps>false</ShowVerseChorusNamesInCaps>
+        <ForceChorusInItalics>false</ForceChorusInItalics>
+      </Style>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Giê-xu muôn đời</Title>
+      <Index>Khắp đất trời hòa dâng tiếng ca ().xml</Index>
+      <Style xsi:type="SongStyle">
+        <Margins>
+          <Left>2</Left>
+          <Top>25</Top>
+          <Right>2.0000000000000142</Right>
+          <Bottom>2.0000000000000142</Bottom>
+        </Margins>
+        <Font>
+          <FontFamily>Times New Roman</FontFamily>
+          <Bold>true</Bold>
+          <Italic>false</Italic>
+          <FontSize>60</FontSize>
+          <FontAlignment>Center</FontAlignment>
+          <FontColour>
+            <A>255</A>
+            <R>255</R>
+            <G>255</G>
+            <B>255</B>
+          </FontColour>
+          <VerticalAlignment>Center</VerticalAlignment>
+          <Outline>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>1</Size>
+          </Outline>
+          <Shadow>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>3</Size>
+            <Blur>5</Blur>
+            <Direction>-35</Direction>
+          </Shadow>
+        </Font>
+        <AutoSize>true</AutoSize>
+        <Wrap>true</Wrap>
+        <ShowVerseNumber>false</ShowVerseNumber>
+        <ShowChorusName>false</ShowChorusName>
+        <ShowVerseName>false</ShowVerseName>
+        <ShowVerseChorusNamesInCaps>false</ShowVerseChorusNamesInCaps>
+        <ForceChorusInItalics>false</ForceChorusInItalics>
+      </Style>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Đấng sống muôn đời</Title>
+      <Index>Đấng sống muôn đời ().xml</Index>
+      <Style xsi:type="SongStyle">
+        <Margins>
+          <Left>2</Left>
+          <Top>25</Top>
+          <Right>2.0000000000000142</Right>
+          <Bottom>2.0000000000000142</Bottom>
+        </Margins>
+        <Font>
+          <FontFamily>Times New Roman</FontFamily>
+          <Bold>true</Bold>
+          <Italic>false</Italic>
+          <FontSize>60</FontSize>
+          <FontAlignment>Center</FontAlignment>
+          <FontColour>
+            <A>255</A>
+            <R>255</R>
+            <G>255</G>
+            <B>255</B>
+          </FontColour>
+          <VerticalAlignment>Center</VerticalAlignment>
+          <Outline>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>1</Size>
+          </Outline>
+          <Shadow>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>3</Size>
+            <Blur>5</Blur>
+            <Direction>-35</Direction>
+          </Shadow>
+        </Font>
+        <AutoSize>true</AutoSize>
+        <Wrap>true</Wrap>
+        <ShowVerseNumber>false</ShowVerseNumber>
+        <ShowChorusName>false</ShowChorusName>
+        <ShowVerseName>false</ShowVerseName>
+        <ShowVerseChorusNamesInCaps>false</ShowVerseChorusNamesInCaps>
+        <ForceChorusInItalics>false</ForceChorusInItalics>
+      </Style>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>2. Tín điều các sứ đồ</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="SlidesServiceItem">
+      <Title>Tín điều các Sứ Đồ</Title>
+      <Index>Tín điều các Sứ Đồ</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>3. Đọc câu gốc KT</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="SlidesServiceItem">
+      <Title>Câu gốc</Title>
+      <Index>Câu gốc</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>4. Chia sẻ lời Chúa</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>5. Dâng hiến</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Hiến cả thảy cho Ngài</Title>
+      <Index>Hiến cả thảy cho Ngài () (1).xml</Index>
+      <Style xsi:type="SongStyle">
+        <Margins>
+          <Left>2</Left>
+          <Top>25</Top>
+          <Right>2.0000000000000142</Right>
+          <Bottom>2.0000000000000142</Bottom>
+        </Margins>
+        <Font>
+          <FontFamily>Times New Roman</FontFamily>
+          <Bold>true</Bold>
+          <Italic>false</Italic>
+          <FontSize>60</FontSize>
+          <FontAlignment>Center</FontAlignment>
+          <FontColour>
+            <A>255</A>
+            <R>255</R>
+            <G>255</G>
+            <B>255</B>
+          </FontColour>
+          <VerticalAlignment>Center</VerticalAlignment>
+          <Outline>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>1</Size>
+          </Outline>
+          <Shadow>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>3</Size>
+            <Blur>5</Blur>
+            <Direction>-35</Direction>
+          </Shadow>
+        </Font>
+        <AutoSize>true</AutoSize>
+        <Wrap>true</Wrap>
+        <ShowVerseNumber>false</ShowVerseNumber>
+        <ShowChorusName>false</ShowChorusName>
+        <ShowVerseName>false</ShowVerseName>
+        <ShowVerseChorusNamesInCaps>false</ShowVerseChorusNamesInCaps>
+        <ForceChorusInItalics>false</ForceChorusInItalics>
+      </Style>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgMorning.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Dâng lên</Title>
+      <Index>Dâng lên ().xml</Index>
+      <Style xsi:type="SongStyle">
+        <Margins>
+          <Left>2</Left>
+          <Top>25</Top>
+          <Right>2.0000000000000142</Right>
+          <Bottom>2.0000000000000142</Bottom>
+        </Margins>
+        <Font>
+          <FontFamily>Times New Roman</FontFamily>
+          <Bold>true</Bold>
+          <Italic>false</Italic>
+          <FontSize>60</FontSize>
+          <FontAlignment>Center</FontAlignment>
+          <FontColour>
+            <A>255</A>
+            <R>255</R>
+            <G>255</G>
+            <B>255</B>
+          </FontColour>
+          <VerticalAlignment>Center</VerticalAlignment>
+          <Outline>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>1</Size>
+          </Outline>
+          <Shadow>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>3</Size>
+            <Blur>5</Blur>
+            <Direction>-35</Direction>
+          </Shadow>
+        </Font>
+        <AutoSize>true</AutoSize>
+        <Wrap>true</Wrap>
+        <ShowVerseNumber>false</ShowVerseNumber>
+        <ShowChorusName>false</ShowChorusName>
+        <ShowVerseName>false</ShowVerseName>
+        <ShowVerseChorusNamesInCaps>false</ShowVerseChorusNamesInCaps>
+        <ForceChorusInItalics>false</ForceChorusInItalics>
+      </Style>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgMorning.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>Header</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>BÀI 207: NGÀI LÀ ĐẤNG CON NGỢI KHEN</Title>
+      <Index>BÀI 207 NGÀI LÀ ĐẤNG CON NGỢI KHEN ().xml</Index>
+      <Style xsi:type="SongStyle">
+        <Margins>
+          <Left>2</Left>
+          <Top>25</Top>
+          <Right>2.0000000000000142</Right>
+          <Bottom>2.0000000000000142</Bottom>
+        </Margins>
+        <Font>
+          <FontFamily>Times New Roman</FontFamily>
+          <Bold>true</Bold>
+          <Italic>false</Italic>
+          <FontSize>60</FontSize>
+          <FontAlignment>Center</FontAlignment>
+          <FontColour>
+            <A>255</A>
+            <R>255</R>
+            <G>255</G>
+            <B>255</B>
+          </FontColour>
+          <VerticalAlignment>Center</VerticalAlignment>
+          <Outline>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>1</Size>
+          </Outline>
+          <Shadow>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>3</Size>
+            <Blur>5</Blur>
+            <Direction>-35</Direction>
+          </Shadow>
+        </Font>
+        <AutoSize>true</AutoSize>
+        <Wrap>true</Wrap>
+        <ShowVerseNumber>false</ShowVerseNumber>
+        <ShowChorusName>false</ShowChorusName>
+        <ShowVerseName>false</ShowVerseName>
+        <ShowVerseChorusNamesInCaps>false</ShowVerseChorusNamesInCaps>
+        <ForceChorusInItalics>false</ForceChorusInItalics>
+      </Style>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Vững an</Title>
+      <Index>Vững an ().xml</Index>
+      <Style xsi:type="SongStyle">
+        <Margins>
+          <Left>2</Left>
+          <Top>25</Top>
+          <Right>2.0000000000000142</Right>
+          <Bottom>2.0000000000000142</Bottom>
+        </Margins>
+        <Font>
+          <FontFamily>Times New Roman</FontFamily>
+          <Bold>true</Bold>
+          <Italic>false</Italic>
+          <FontSize>60</FontSize>
+          <FontAlignment>Center</FontAlignment>
+          <FontColour>
+            <A>255</A>
+            <R>255</R>
+            <G>255</G>
+            <B>255</B>
+          </FontColour>
+          <VerticalAlignment>Center</VerticalAlignment>
+          <Outline>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>1</Size>
+          </Outline>
+          <Shadow>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>3</Size>
+            <Blur>5</Blur>
+            <Direction>-35</Direction>
+          </Shadow>
+        </Font>
+        <AutoSize>true</AutoSize>
+        <Wrap>true</Wrap>
+        <ShowVerseNumber>false</ShowVerseNumber>
+        <ShowChorusName>false</ShowChorusName>
+        <ShowVerseName>false</ShowVerseName>
+        <ShowVerseChorusNamesInCaps>false</ShowVerseChorusNamesInCaps>
+        <ForceChorusInItalics>false</ForceChorusInItalics>
+      </Style>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Vững an</Title>
+      <Index>Vững an ().xml</Index>
+      <Style xsi:type="SongStyle">
+        <Margins>
+          <Left>2</Left>
+          <Top>25</Top>
+          <Right>2.0000000000000142</Right>
+          <Bottom>2.0000000000000142</Bottom>
+        </Margins>
+        <Font>
+          <FontFamily>Times New Roman</FontFamily>
+          <Bold>true</Bold>
+          <Italic>false</Italic>
+          <FontSize>60</FontSize>
+          <FontAlignment>Center</FontAlignment>
+          <FontColour>
+            <A>255</A>
+            <R>255</R>
+            <G>255</G>
+            <B>255</B>
+          </FontColour>
+          <VerticalAlignment>Center</VerticalAlignment>
+          <Outline>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>1</Size>
+          </Outline>
+          <Shadow>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>3</Size>
+            <Blur>5</Blur>
+            <Direction>-35</Direction>
+          </Shadow>
+        </Font>
+        <AutoSize>true</AutoSize>
+        <Wrap>true</Wrap>
+        <ShowVerseNumber>false</ShowVerseNumber>
+        <ShowChorusName>false</ShowChorusName>
+        <ShowVerseName>false</ShowVerseName>
+        <ShowVerseChorusNamesInCaps>false</ShowVerseChorusNamesInCaps>
+        <ForceChorusInItalics>false</ForceChorusInItalics>
+      </Style>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Nhưng trước hết</Title>
+      <Index>Nhưng trước hết ().xml</Index>
+      <Style xsi:type="SongStyle">
+        <Margins>
+          <Left>2</Left>
+          <Top>25</Top>
+          <Right>2.0000000000000142</Right>
+          <Bottom>2.0000000000000142</Bottom>
+        </Margins>
+        <Font>
+          <FontFamily>Times New Roman</FontFamily>
+          <Bold>true</Bold>
+          <Italic>false</Italic>
+          <FontSize>60</FontSize>
+          <FontAlignment>Center</FontAlignment>
+          <FontColour>
+            <A>255</A>
+            <R>255</R>
+            <G>255</G>
+            <B>255</B>
+          </FontColour>
+          <VerticalAlignment>Center</VerticalAlignment>
+          <Outline>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>1</Size>
+          </Outline>
+          <Shadow>
+            <Enabled>false</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>3</Size>
+            <Blur>5</Blur>
+            <Direction>-35</Direction>
+          </Shadow>
+        </Font>
+        <AutoSize>true</AutoSize>
+        <Wrap>true</Wrap>
+        <ShowVerseNumber>false</ShowVerseNumber>
+        <ShowChorusName>false</ShowChorusName>
+        <ShowVerseName>false</ShowVerseName>
+        <ShowVerseChorusNamesInCaps>false</ShowVerseChorusNamesInCaps>
+        <ForceChorusInItalics>false</ForceChorusInItalics>
+      </Style>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgMorning.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+  </ServiceItems>
+  <Version>3.2001.21</Version>
+</ServiceList>

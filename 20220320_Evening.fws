@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ServiceItems>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>Header</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Thần Linh của Chúa</Title>
+      <Index>Thần Linh của Chúa ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgMorning.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Giê-hô-va Nis-si</Title>
+      <Index>Giê-hô-va Nis-si ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgMorning.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Bài ca đắc thắng</Title>
+      <Index>Ngài là Chúa, Đấng đã dựng nên vũ trụ ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Hát như Đa-vít xưa</Title>
+      <Index>Hát như David xưa ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Bài 130: Quyền năng thay vua hằng con muôn đời</Title>
+      <Index>BÀI 130 QUYỀN NĂNG THAY VUA HẰNG CON MUÔN ĐỜI ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Phấn hưng</Title>
+      <Index>Phấn hưng ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>Header</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Xin dâng hiến đời con</Title>
+      <Index>Xin dâng hiến đời con ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgMorning.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Bài ca cảm tạ</Title>
+      <Index>Bài ca cảm tạ ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgMorning.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Ơn Chúa lòng ghi sâu</Title>
+      <Index>Ơn Chúa lòng ghi sâu ().xml</Index>
+    </ServiceItem>
+  </ServiceItems>
+  <Version>3.5.0</Version>
+</ServiceList>

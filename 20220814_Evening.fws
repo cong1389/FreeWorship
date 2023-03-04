@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ServiceItems>
+    <ServiceItem xsi:type="SlidesServiceItem">
+      <Title>Chương trình</Title>
+      <Index>Chương trình</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Gần bên Chúa càng hơn</Title>
+      <Index>Gần bên Chúa càng hơn ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgGreen.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SlidesServiceItem">
+      <Title>KT</Title>
+      <Index>KT</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>1. Ngợi khen-Thờ phượng</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Cửa đời đời</Title>
+      <Index>Chúc tôn Vua vinh hiển ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgGreen.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Vỗ tay vui</Title>
+      <Index>Hãy vỗ tay ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgGreen.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Cùng ca vang</Title>
+      <Index>BÀI 359 VỚI TẤT CẢ VINH QUANG ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgGreen.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Chúa của ta</Title>
+      <Index>Chúa của ta ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgGreen.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Hát Ha-lê-lu-gia</Title>
+      <Index>Hát Ha-lê-lu-gia (GraceChurch).xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgMorning.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Aba Cha yêu ơi</Title>
+      <Index>Aba Cha yêu ơi ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgGreen.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>2. Tín điều các sứ đồ</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="SlidesServiceItem">
+      <Title>Tín điều các Sứ Đồ</Title>
+      <Index>Tín điều các Sứ Đồ</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>3. Đọc câu gốc KT</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="SlidesServiceItem">
+      <Title>Câu gốc</Title>
+      <Index>Câu gốc</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>4. Chia sẻ lời Chúa</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>5. Dâng hiến</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Hiến cả thảy cho Ngài</Title>
+      <Index>Hiến cả thảy cho Ngài () (1).xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgGreen.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Dâng lên</Title>
+      <Index>Dâng lên ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgMorning.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>Header</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Chúa toàn năng</Title>
+      <Index>Chúa toàn năng ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgGreen.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>BÀI 249: HA LÊ LUGIA, NGỢI KHEN CHÚA</Title>
+      <Index>BÀI 249 HA LÊ LUGIA, NGỢI KHEN CHÚA ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Ha-lê-lu-gia</Title>
+      <Index>Ha-lê-lu-gia (GraceChurch).xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgGreen.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+  </ServiceItems>
+  <Version>3.2001.21</Version>
+</ServiceList>

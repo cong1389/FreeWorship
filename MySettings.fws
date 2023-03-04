@@ -2,7 +2,7 @@
 <ServiceList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ServiceItems>
     <ServiceItem xsi:type="SongServiceItem">
-      <Title>Muôn dân vỗ tay</Title>
+      <Title>Hãy vỗ tay lên</Title>
       <Index>Muôn dân vỗ tay ().xml</Index>
       <Background xsi:type="ImageBackgroundSettings">
         <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
@@ -63,6 +63,75 @@
       <Background xsi:type="ImageBackgroundSettings">
         <ImagePath>...\Media\Backgrounds\bg22.jpg</ImagePath>
         <FillType>Center</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="PowerPointServiceItem">
+      <Title>New PowerPoint</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="ImageServiceItem">
+      <Title>20220110_203944.jpg</Title>
+      <Index>E:\Rac\20200209\20220110_203944.jpg</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="VideoStreamServiceItem">
+      <Title>New Video Stream</Title>
+      <Index>@device:pnp:\\?\usb#vid_1bcf&amp;pid_28c1&amp;mi_00#6&amp;30651592&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global</Index>
+      <Style xsi:type="StreamStyle">
+        <Margins>
+          <Left>0</Left>
+          <Top>0</Top>
+          <Right>0</Right>
+          <Bottom>0</Bottom>
+        </Margins>
+        <FillType>ScaleToFit</FillType>
+      </Style>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
       </Background>
     </ServiceItem>
   </ServiceItems>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ServiceItems>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Ngợi Danh Jesus rất Oai Quyền</Title>
+      <Index>Ngợi Danh Jesus rất Oai Quyền ().xml</Index>
+      <Background xsi:type="ImageBackgroundSettings">
+        <ImagePath>...\Media\Backgrounds\BgMorning.jpg</ImagePath>
+        <FillType>StretchToFill</FillType>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>BÀI 91: TÌNH YÊU THƯƠNG</Title>
+      <Index>BÀI 91 TÌNH YÊU THƯƠNG ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Đường Thương Khó</Title>
+      <Index>Đường Thương Khó ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>Tiệc thánh - 400</Title>
+      <Index>Tiệc thánh ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>BÀI 333: GÔ-GÔ-THA NĂM XƯA</Title>
+      <Index>BÀI 333 GÔ-GÔ-THA NĂM XƯA ().xml</Index>
+    </ServiceItem>
+  </ServiceItems>
+  <Version>3.5.0</Version>
+</ServiceList>
